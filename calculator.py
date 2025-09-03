@@ -1,4 +1,7 @@
 class calc:
+    def __init__(self):
+        print("Developer 1 update")
+        
     def sums(self, *args):
         print("sum is :",sum(args))
         
